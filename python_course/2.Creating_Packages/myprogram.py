@@ -1,0 +1,5 @@
+from MyMainPackage import some_main_script
+from MyMainPackage.SubPackage import some_subpackage_script
+
+some_main_script.main_report()
+some_subpackage_script.sub_report()
